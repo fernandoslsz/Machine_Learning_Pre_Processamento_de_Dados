@@ -1,4 +1,4 @@
-# Machine Learning Pre Processamento de Dados
+# Machine Learning Pré-Processamento de Dados
 
 Nesse projeto irei fazer o tratamento dos dados, removendo valores faltantes e inconsistentes, e também faço o escalonamento dos dados,
 como a pradronização e normalidação.
